@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SujanNepal1234567&label=Profile%20views&color=0e75b6&style=flat" alt="Sujan Nepal" /> </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SujanNepal1234567)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on FastAPI Backend Development
 - 🌱 I’m currently learning JS
