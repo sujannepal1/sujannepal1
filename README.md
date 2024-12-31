@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/halka_para"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/SujanNepal1234567"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://github.com/SujanNepal1"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/sujan-nepal-879a09133"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
 <h3 align="center">Languages and Tools:</h3>
