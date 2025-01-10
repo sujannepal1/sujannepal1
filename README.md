@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SujanNepal1234567&label=Profile%20views&color=0e75b6&style=flat" alt="Sujan Nepal" /> </p>
 
 - 🔭 I’m currently working on FastAPI Backend Development
-- 🌱 I’m currently learning Coolify
+- 🌱 I’m currently learning OpenCV
 - 👯 I’m looking to collaborate on Machine Learning/ DevOps
 - 🤔 I’m curious about Quantum Computing
 - 💬 Ask me about Python and FastAPI
